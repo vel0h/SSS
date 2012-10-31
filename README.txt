@@ -1,0 +1,2 @@
+A bukkit Plugin for Minecraft Servers:
+Do you hate leaving a server, only to find that the session servers are down, and you can't join back? Well, now you can know! SSS (Stupid Session Servers) automatically checks the session servers, and informs the entire server if they crash!

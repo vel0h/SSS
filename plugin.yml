@@ -1,0 +1,8 @@
+name: SSS
+description: Warns you if those Stupid Session Servers go down!
+version: 1.0
+
+author: tehtros
+website: tehtros.co.cc
+
+main: 'tehtros.bukkit.SSS.SSS'
